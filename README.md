@@ -4,7 +4,8 @@ Clone this repository to your local machine
 - git clone https://github.com/vlino2015/calculator.git 
 - cd into the calculator directory
 - work with your classmates to build a calculator
-- hint: use slice and splice instead of push and pop
+- hint1: Don't place an event listener on each individual button. Instead, use addEventListenter and attach a listener to a group of buttons.  Use the event object to determine which button was clicked.
+- hint: use *slice* and *splice* instead of push and pop
 
 Create a Calculator using HTML/CSS/JS
 
